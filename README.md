@@ -1,8 +1,8 @@
-# Assinatura de documentos (doc-sign-app)
+# Shortener APP
 
-Projeto para assinatura de documentos
+Encurtador de URL
 
-## Install the dependencies
+## Instalação
 ```bash
 yarn
 ```
@@ -12,15 +12,13 @@ yarn
 quasar dev
 ```
 
-### Lint the files
-```bash
-yarn lint
-```
-
-### Build the app for production
-```bash
-quasar build
-```
-
 ### Customize the configuration
 See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
+
+
+### Como encurtar URL?
+
+- Os usuarios podem criar urls de forma anonima, porém não podem deletar;
+- Os usuarios registrados podem deletar urls criadas por eles mesmos;
+- Os usuários podem inserir as urls dentro do input e encurta-las pressionando Enter ou clicando no botão de enviar dentro do input.
+
