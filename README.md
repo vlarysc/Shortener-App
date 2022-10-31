@@ -7,7 +7,7 @@ Encurtador de URL
 yarn
 ```
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
+### Inicialização do servidor local
 ```bash
 quasar dev
 ```
