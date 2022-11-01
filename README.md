@@ -3,18 +3,18 @@
 Encurtador de URL
 
 ## Instalação
+- Baixe o projeto https://github.com/vlarysc/Shortener-Back;
+- Instale o back-end e rode ele na porta http://localhost:3000/ (Mais informações no readme do projeto);
+- Use o comando abaixo para instalar as dependencias da aplicação front-end;
 ```bash
 yarn
 ```
 
 ### Inicialização do servidor local
+- Use o comando abaixo para inicializar a aplicação front-end (Certifique-se de que o back-end esteja rodando na porta http://localhost:3000/);
 ```bash
 quasar dev
 ```
-
-### Customize the configuration
-See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
-
 
 ### Como encurtar URL?
 
